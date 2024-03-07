@@ -1,10 +1,10 @@
 {
-  "moduleInstanceId": "Page1 Copy_JSModule1_1",
+  "moduleInstanceId": "Page1 Copy1_JSModule1_1",
   "isPublic": true,
-  "rootModuleInstanceId": "Page1 Copy_JSModule1_1",
+  "rootModuleInstanceId": "Page1 Copy1_JSModule1_1",
   "unpublishedCollection": {
     "name": "_$JSModule1_1$_JSModule1",
-    "pageId": "Page1 Copy",
+    "pageId": "Page1 Copy1",
     "contextType": "PAGE",
     "pluginId": "js-plugin",
     "pluginType": "JS",
@@ -12,7 +12,7 @@
     "archivedActions": [],
     "userPermissions": []
   },
-  "id": "Page1 Copy__$JSModule1_1$_JSModule1",
+  "id": "Page1 Copy1__$JSModule1_1$_JSModule1",
   "deleted": false,
-  "gitSyncId": "65e986a69e48701bd19898d0_65e989dd9e48701bd1989a2b"
+  "gitSyncId": "65e986a69e48701bd19898d0_65e98a039e48701bd1989a5d"
 }

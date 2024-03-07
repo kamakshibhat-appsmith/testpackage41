@@ -1,12 +1,12 @@
 {
-  "moduleInstanceId": "Page1 Copy_JSModule1_2",
+  "moduleInstanceId": "Page1 Copy1_JSModule1_1",
   "isPublic": true,
-  "rootModuleInstanceId": "Page1 Copy_JSModule1_2",
+  "rootModuleInstanceId": "Page1 Copy1_JSModule1_1",
   "pluginType": "JS",
   "pluginId": "js-plugin",
   "unpublishedAction": {
-    "name": "myFun1",
-    "fullyQualifiedName": "_$JSModule1_2$_JSModule1.myFun1",
+    "name": "myFun2",
+    "fullyQualifiedName": "_$JSModule1_1$_JSModule1.myFun2",
     "datasource": {
       "name": "UNUSED_DATASOURCE",
       "pluginId": "js-plugin",
@@ -16,9 +16,9 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "Page1 Copy",
+    "pageId": "Page1 Copy1",
     "contextType": "PAGE",
-    "collectionId": "Page1__$JSModule1_2$_JSModule1",
+    "collectionId": "Page1 Copy1__$JSModule1_1$_JSModule1",
     "executeOnLoad": false,
     "clientSideExecution": true,
     "isValid": true,
@@ -30,7 +30,7 @@
     "userPermissions": [],
     "createdAt": "2024-03-07T09:17:26Z"
   },
-  "id": "Page1 Copy__$JSModule1_2$_JSModule1.myFun1",
+  "id": "Page1 Copy1__$JSModule1_1$_JSModule1.myFun2",
   "deleted": false,
-  "gitSyncId": "65e986a69e48701bd19898d0_65e987909e48701bd198994c"
+  "gitSyncId": "65e986a69e48701bd19898d0_65e98a039e48701bd1989a5c"
 }
