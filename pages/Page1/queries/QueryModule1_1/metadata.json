@@ -1,7 +1,7 @@
 {
-  "moduleInstanceId": "Page1_QueryModule1_1",
+  "moduleInstanceId": "Page1 Copy_QueryModule1_1",
   "isPublic": true,
-  "rootModuleInstanceId": "Page1_QueryModule1_1",
+  "rootModuleInstanceId": "Page1 Copy_QueryModule1_1",
   "pluginType": "DB",
   "pluginId": "postgres-plugin",
   "unpublishedAction": {
@@ -28,5 +28,5 @@
   },
   "id": "Page1__$QueryModule1_1$_QueryModule1",
   "deleted": false,
-  "gitSyncId": "65e986a69e48701bd19898d0_65e989e69e48701bd1989a3a"
+  "gitSyncId": "65e9861b9e48701bd1989864_65e9864f9e48701bd19898ba"
 }
